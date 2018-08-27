@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learnign testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prahalad belavadi",
+  "license": "ISC",
+  "dependencies": {
+    "test-anything": "^1.1.7"
+  }
+}
