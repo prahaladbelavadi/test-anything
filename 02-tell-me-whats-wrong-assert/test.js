@@ -9,10 +9,10 @@ var username: {'name':'Jacob',{'password': 'bkbwkqdnqwdlaolcbw2389rhwdakc89rq2h8
   assert.strictEqual(username.name === 'Jacob','Jacob', 'Persons user name is Jacob')
 
 
- assert.ok(value, message) // tests if value is truthy
- assert.equal(actual, expected, message) // ==
- assert.notEqual(actual, expected, message) // !=
- assert.deepEqual(actual, expected, message) // for comparing objects
- assert.notDeepEqual(actual, expected, message)
- assert.strictEqual(actual, expected, message) // ===
- assert.notStrictEqual(actual, expected, message) // !==
+ // assert.ok(value, message) // tests if value is truthy
+ // assert.equal(actual, expected, message) // ==
+ // assert.notEqual(actual, expected, message) // !=
+ // assert.deepEqual(actual, expected, message) // for comparing objects
+ // assert.notDeepEqual(actual, expected, message)
+ // assert.strictEqual(actual, expected, message) // ===
+ // assert.notStrictEqual(actual, expected, message) // !==
